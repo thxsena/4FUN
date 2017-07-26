@@ -1,6 +1,6 @@
 # Author: Thiago (THX)
 # github: /thxsena
-#
+# Shellterlabs - SHX13
 #
 
 import requests
