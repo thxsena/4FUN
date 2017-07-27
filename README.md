@@ -1,2 +1,1 @@
-# CTF
-Scripts developed for ctf
+# 4FUN
